@@ -6,7 +6,7 @@
     "email": "raghu.raikar@outlook.com",
     "phone": "",
     "url": "http://www.linkedin.com/in/raghavendraraikar",
-    "summary": "Rising Senior at UC Santa Cruz majoring in Computer Science",
+    "summary": "Rising Senior at UC Santa Cruz majoring in Computer Science and minoring in Mathematics",
     "location": {
       "address": "",
       "postalCode": "CA 95060",
@@ -24,14 +24,27 @@
   },
   "work": [
     {
+      "name": "UXLY",
+      "position": "Machine Learning Intern",
+      "url": "https://uxly.software",
+      "startDate": "2025-01-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developing a multi-agent chatbot, leveraging Retrieval-Augmented Generation (RAG) with FAISS/Pinecone and LLaMA to enhance knowledge retrieval for customer inquiries.",
+        "Building an intent classification pipeline using LangChain and LangGraph, reducing misrouted requests by 40% and ensuring accurate query handling.",
+        "Optimizing product catalog data management, splitting and indexing it across multiple vector databases, enabling efficient retrieval for specialized chatbot agents and improving response efficiency by 35%."
+      ]
+    },
+    {
       "name": "Beau",
       "position": "Software Engineering Intern",
       "url": "https://example.com",
       "startDate": "2024-07-21",
-      "endDate": "Present",
+      "endDate": "2024-09-20",
       "summary": "",
       "highlights": [
-        "Bridging the gap between client and make-up artist by developing a matching and booking system using React Native, Python, and Firebase, setting the stage for a seamless user experience and generating pre-launch interest.",
+        "Bridging the gap between client and make-up artist by developing a matching and booking system using React Native, Python and Firebase, setting the stage for a seamless user experience and generating pre-launch interest.",
         "Enhanced software design, coding, and testing, accelerating feature deployment by 25% and integrated Jest for unit testing, ensuring robust and maintainable code.",
         "Collaborated with co-founders and engineers to ensure scalable launch readiness, focusing on robust system design and data integrity."
       ]
@@ -44,9 +57,9 @@
       "endDate": "2024-05-10",
       "summary": "",
       "highlights": [
-        "Built and improved 10+ features for the CMS Celestial Mapping System using Java, enhancing 3D simulation accuracy and contributing to mission planning.",
-        "Integrated the latest version of GDAL, boosting image projection accuracy by 30%, and added vector features, enhancing crater analysis by 40%.",
-        "Developed data pipeline and algorithms for HORUS, improving lunar crater clarity by 25%, and presented the project at the NASA Better Together 2023 conference."
+        "Implemented and enhanced 10+ features for the CMS Celestial Mapping System using Java, improving 3D simulation accuracy and supporting mission planning initiatives.",
+        "Integrated GDAL updates, increasing image projection accuracy by 30%, while implementing vector-based enhancements that improved crater analysis efficiency by 40%.",
+        "Developed data pipeline and algorithms for HORUS AI, improving lunar crater clarity by 25%, and presented the project at the NASA Better Together 2023 conference."
       ]
     },
     {
@@ -57,9 +70,8 @@
       "endDate": "2023-06-15",
       "summary": "",
       "highlights": [
-        "Built Python program using regex, streamlining client-side requirement extraction for Kitu-Inverter-Client by 70%.",
-        "Cataloged server and client-side requirements, reducing development time by 35% and enhancing team accessibility.",
-        "Conducted TPM testing on the OnLogic Board, achieving a 95% success rate in secure key storage and file decryption."
+        "Created a Python program using regex to automate requirement extraction for Kitu-Inverter-Client, improving efficiency by 70% and reducing development time by 35%.",
+        "Conducted TPM testing on the OnLogic Board, achieving a 95% success rate in secure key storage and file decryption while improving team accessibility."
       ]
     }
   ],
@@ -83,13 +95,13 @@
       "institution": "University of California Santa Cruz",
       "location": "Santa Cruz, California",
       "url": "https://www.ucsc.edu/",
-      "area": "Computer Science",
+      "area": "Computer Science and Mathematics Minor",
       "studyType": "Bachelors",
       "startDate": "2021-09-18",
       "endDate": "2025-06-15",
       "score": "",
       "courses": [
-        "GPA: 3.83",
+        "GPA: 3.84",
         "Data Structures/Algorithms",
         "Object Oriented Programming",
         "Software Engineering",
