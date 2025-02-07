@@ -4,7 +4,7 @@ Welcome to my personal portfolio, built using the **al-folio** theme! This site 
 
 ## 🛠️ Features
 - 🚀 **Projects**: A collection of my most impactful work in AI, NLP, and full-stack development.
-- 🎓 **Experience**: Highlights from my internships at **NASA, Beau, Kitu Systems**, and my contributions to **open-source**.
+- 🎓 **Experience**: Highlights from my internships at **NASA, Beau, Kitu Systems**.
 - 📜 **Technical Blogs**: Articles on AI, machine learning, and system design, published on **Medium**.
 - 📄 **Resume**: Download my latest resume directly from the site.
 
