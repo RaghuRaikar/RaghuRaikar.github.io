@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering Intern @ beau
+subtitle: CS + Math @ UCSC
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UC Santa Cruz Computer Science Student</p>
     <p>Email: raghu.raikar@outlook.com</p>
 
 news: true # includes a list of news items
@@ -17,6 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a computer science student at the University of California, Santa Cruz, I have built a solid foundation in programming languages like Java, Python, and C++. My skills also extend to web development with HTML, CSS, and JavaScript, and I have practical experience with databases and version control systems.
-
-My primary interest lies in artificial intelligence and machine learning, where I am eager to apply and expand my expertise. I enjoy solving coding challenges and training AI models, and I am committed to staying updated with the latest advancements in the field. I am enthusiastic about contributing my skills to innovative projects in AI/ML and continuing to grow in this exciting area.
+As a Computer Science student and Mathematics minor at the University of California, Santa Cruz, I have gained experience in AI, NLP, and full-stack development through internships at Beau, NASA, and Kitu Systems. My work includes building machine learning models, optimizing data pipelines, and developing backend systems. I actively contribute to open source, write technical articles on Medium, and stay engaged with cutting-edge AI advancements. Currently, developing PlayPicks.
