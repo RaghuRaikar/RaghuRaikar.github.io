@@ -75,18 +75,57 @@
       ]
     }
   ],
-  "volunteer": [
+  "Leadership & Community": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "organization": "",
+      "location": "",
+      "position": "Technical Writer @ Medium",
+      "url": "https://medium.com/@raghu.raikar",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Blogging about software, emerging tech, and my passion for AI & ML.",
       "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "location": "",
+      "position": "Open Source Contributor",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Contributing to open source repositories.",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "location": "",
+      "position": "NLP Researcher @ UCSC Tech4Good",
+      "url": "",
+      "startDate": "2023-01-06",
+      "endDate": "2024-12-15",
+      "summary": "Contributing to open source repositories.",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "location": "",
+      "position": "Group Tutor @ UCSC Baskin Engineering",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Tutored students in Computer Systems Design, Python Programming, and Computer Architecture.",
+      "highlights": [
+        "",
+        ""
       ]
     }
   ],
@@ -214,7 +253,9 @@
         "Flask",
         "Express",
         "Linux",
-        "PyTorch"
+        "PyTorch",
+        "Llamaindex",
+        "FastAPI"
       ]
     }
   ],
@@ -255,7 +296,8 @@
       "summary": "",
       "highlights": [
         "React | Flask | SpaCy | Firebase | Llama | Odds API | RAG",
-        "Built a chatbot with Llama LLM, using RAG and Odd API data to deliver AI predictions, real-time odds, and tailored betting advice. Employed spaCy for conversation labeling and deployed via AWS Amplify, reaching over 100+ users."
+        "Built an AI-powered sports betting chatbot using LlamaIndex (RAG) and GPT-4 for real-time odds, AI predictions, and personalized insights.",
+        "Integrated spaCy for NLP, Firebase for data management, and Odds API for real-time sports data, deploying via AWS Amplify to reach 100+ users."
       ],
       "startDate": "2024-08-01",
       "endDate": "Present",
@@ -266,7 +308,8 @@
       "summary": "",
       "highlights": [
         "Streamlit | Flask | Pandas | NLTK | SKLearn | BeautifulSoup",
-        "Engineered an AI model using Streamlit, Flask, Pandas, NLTK, and SKLearn to recommend recipes based on inputted ingredients, creating a user-friendly interface and enhancing user experience."
+        "Engineered an AI-powered recipe recommendation tool, using Streamlit for an interactive UI and Flask for backend processing.",
+        "Built a machine learning model using scikit-learn and NLTK, leveraging BeautifulSoup for web-scraped recipe data to enhance recipe recommendations based on user-inputted ingredients."
       ],
       "startDate": "2023-07-20",
       "endDate": "2023-08-31",
