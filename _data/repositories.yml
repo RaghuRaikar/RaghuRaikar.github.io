@@ -7,19 +7,30 @@ github_organizations:
   - PantryPal-1
 
 github_repos:
-  - WasteLessApp/WasteLessApp
-  - RaghuRaikar/chatsupport
-  - Friends-In-CS/Pull-Request-Automation-Review-App
-  - RaghuRaikar/NorthwindWebApp
-  - RaghuRaikar/Logging_Library
-  - RaghuRaikar/R-E-Motors-E-Commerce-Website
-  - RaghuRaikar/Google-Project
-  - RaghuRaikar/Yelp-Company-Case-Project
+  - RaghuRaikar/WasteLessApp
+  - RaghuRaikar/PlayPicks
+  - RaghuRaikar/N-Gram-Language-Modeling
+  - RaghuRaikar/Movie-Review-Sentiment-Classifier
+  - RaghuRaikar/Neural-Network-Based-NLP-Classifier
+  - RaghuRaikar/Titanic-Survival-Prediction
+  - RaghuRaikar/Concurrent-Resource-Management-System
+  - RaghuRaikar/Custom-Linux-Container
+  - RaghuRaikar/MapReduce
+  - RaghuRaikar/Key-Value-Store-Cache-System
+  - RaghuRaikar/ResumeParser
   - RaghuRaikar/Mind-Palace
-  - RaghuRaikar/Twitter-Clone
+  - RaghuRaikar/GroupMind
+  - RaghuRaikar/AI-Sales_Transcript
+  - RaghuRaikar/R-E-Motors-E-Commerce-Website
+  - RaghuRaikar/Logging_Library
+  - RaghuRaikar/CommuteWise
+  - RaghuRaikar/Task-Organizer
+  - RaghuRaikar/SixDegreesOfActors
+  - RaghuRaikar/Word-Range-Analyzer
+  - RaghuRaikar/N-Queens-Solver
+  - RaghuRaikar/Word-Frequency-Analysis
   - RaghuRaikar/Instagram_Clone
   - RaghuRaikar/Twitter-Clone-Part-2
-  - RaghuRaikar/Microsoft-Project
   - RaghuRaikar/project2-map-reduce
   - RaghuRaikar/project3-slug-dining
   - RaghuRaikar/project4-kvs-cache
