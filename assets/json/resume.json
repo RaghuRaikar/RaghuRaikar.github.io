@@ -6,7 +6,7 @@
     "email": "raghu.raikar@outlook.com",
     "phone": "",
     "url": "http://www.linkedin.com/in/raghavendraraikar",
-    "summary": "Rising Senior at UC Santa Cruz majoring in Computer Science and minoring in Mathematics",
+    "summary": "Incoming CS + ML Masters Student at Georgia Tech",
     "location": {
       "address": "",
       "postalCode": "CA 95060",
@@ -28,12 +28,12 @@
       "position": "Machine Learning Intern",
       "url": "https://uxly.software",
       "startDate": "2025-01-06",
-      "endDate": "Present",
+      "endDate": "2025-06-13",
       "summary": "",
       "highlights": [
-        "Developing a multi-agent chatbot, leveraging Retrieval-Augmented Generation (RAG) with FAISS/Pinecone and LLaMA to enhance knowledge retrieval for customer inquiries.",
-        "Building an intent classification pipeline using LangChain and LangGraph, reducing misrouted requests by 40% and ensuring accurate query handling.",
-        "Optimizing product catalog data management, splitting and indexing it across multiple vector databases, enabling efficient retrieval for specialized chatbot agents and improving response efficiency by 35%."
+        "Built a full-stack e-commerce chatbot using FastAPI, React, and Supabase with authenticated user sessions, supporting both guest product search and authenticated cart/order management.",
+        "Implemented BM25-based product search engine with custom tokenization and dimensional filtering (weight, length, width), achieving 95% search accuracy and supporting product SKUs.",
+        "Developed LangGraph React agent framework with specialized e-commerce tools, enabling seamless cart management, order processing, and product URL generation with variant parameter handling, reducing customer support queries by 60%."
       ]
     },
     {
@@ -58,8 +58,8 @@
       "summary": "",
       "highlights": [
         "Implemented and enhanced 10+ features for the CMS Celestial Mapping System using Java, improving 3D simulation accuracy and supporting mission planning initiatives.",
-        "Integrated GDAL updates, increasing image projection accuracy by 30%, while implementing vector-based enhancements that improved crater analysis efficiency by 40%.",
-        "Developed data pipeline and algorithms for HORUS AI, improving lunar crater clarity by 25%, and presented the project at the NASA Better Together 2023 conference."
+        "Automated HORUS AI georeferencing, integrating Permanently Shadowed Region (PSR) imagery into CMS, improving coordinate accuracy by 40% and crater clarity by 25%.",
+        "Presented CMS at NASA Better Together 2023, showcasing high-resolution lunar mapping, AI-enhanced imagery, and vector-based crater analysis, aiding mission planners and researchers."
       ]
     },
     {
