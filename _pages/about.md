@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS + Math @ UCSC
+subtitle: CS + ML @ Georgia Tech
 
 profile:
   align: right
