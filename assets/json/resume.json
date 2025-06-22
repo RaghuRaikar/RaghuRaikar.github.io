@@ -131,6 +131,17 @@
   ],
   "education": [
     {
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, Georgia",
+      "url": "https://www.gatech.edu/",
+      "area": "Computer Science and Machine Learning",
+      "studyType": "Masters",
+      "startDate": "2025-08-18",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
       "institution": "University of California Santa Cruz",
       "location": "Santa Cruz, California",
       "url": "https://www.ucsc.edu/",
