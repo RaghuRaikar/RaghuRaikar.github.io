@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS + ML @ Georgia Tech
+subtitle: 
 
 profile:
   align: right
