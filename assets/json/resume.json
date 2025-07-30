@@ -6,7 +6,7 @@
     "email": "raghu.raikar@outlook.com",
     "phone": "",
     "url": "http://www.linkedin.com/in/raghavendraraikar",
-    "summary": "Incoming CS + ML Masters Student at Georgia Tech",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "CA 95060",
@@ -130,7 +130,7 @@
     }
   ],
   "education": [
-    {
+     "_comment": "{
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, Georgia",
       "url": "https://www.gatech.edu/",
@@ -140,7 +140,8 @@
       "endDate": "",
       "score": "",
       "courses": [""]
-    },
+    },"
+    
     {
       "institution": "University of California Santa Cruz",
       "location": "Santa Cruz, California",
