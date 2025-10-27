@@ -243,10 +243,7 @@
         "Java",
         "JavaScript",
         "SQL",
-        "Flutter",
         "Swift",
-        "Flask",
-        "TypeScript"
       ]
     },
     {
@@ -261,24 +258,15 @@
         "PostgreSQL",
         "Restful APIs",
         "Docker",
-        "Angular",
         "Firebase",
         "Spring Boot",
         "NLTK",
         "Pandas",
         "scikit-learn",
-        "Tensorflow",
-        "Matlab",
         "Streamlit",
         "spaCy",
-        "BERT",
-        "Hugging Face",
-        "Microsoft Azure",
-        "Django",
         "Flask",
-        "Express",
         "Linux",
-        "PyTorch",
         "Llamaindex",
         "FastAPI"
       ]
