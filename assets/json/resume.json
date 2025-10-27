@@ -6,13 +6,13 @@
     "email": "raghu.raikar@outlook.com",
     "phone": "",
     "url": "http://www.linkedin.com/in/raghavendraraikar",
-    "summary": "",
+    "summary": "Associate Software Engineer @ AssetMark + CS/ML Masters Student at Georgia Tech",
     "location": {
       "address": "",
-      "postalCode": "CA 95060",
-      "city": "Santa Cruz",
+      "postalCode": "NC 28209",
+      "city": "Charlotte",
       "countryCode": "US",
-      "region": "California"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -24,6 +24,19 @@
   },
   "work": [
     {
+      "name": "AssetMark",
+      "position": "Associate Software Engineer",
+      "url": "https://www.assetmark.com/",
+      "startDate": "2025-09-22",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained full-stack features for the eWealth Manager platform, enhancing advisor workflows for enrollment and client asset management.",
+        "Collaborated with engineers and product teams to translate business requirements into scalable, user-focused web solutions.",
+        "Contributed to the Enrollment & Service team’s core applications supporting advisors on a platform with $140 billion in client assets under management."
+      ]
+    },
+    {
       "name": "UXLY",
       "position": "Machine Learning Intern",
       "url": "https://uxly.software",
@@ -31,9 +44,9 @@
       "endDate": "2025-06-13",
       "summary": "",
       "highlights": [
-        "Built a full-stack e-commerce chatbot using FastAPI, React, and Supabase with authenticated user sessions, supporting both guest product search and authenticated cart/order management.",
-        "Implemented BM25-based product search engine with custom tokenization and dimensional filtering (weight, length, width), achieving 95% search accuracy and supporting product SKUs.",
-        "Developed LangGraph React agent framework with specialized e-commerce tools, enabling seamless cart management, order processing, and product URL generation with variant parameter handling, reducing customer support queries by 60%."
+        "Built a full-stack e-commerce chatbot using FastAPI, React, and Supabase supporting both guest product search and authenticated cart/order management.",
+        "Implemented BM25-based product search engine with custom tokenization and dimensional filtering, achieving 95% search accuracy supporting product SKUs.",
+        "Developed LangGraph React agent framework for seamless cart and order handling, reducing support queries by 60%."
       ]
     },
     {
@@ -57,9 +70,9 @@
       "endDate": "2024-05-10",
       "summary": "",
       "highlights": [
-        "Implemented and enhanced 10+ features for the CMS Celestial Mapping System using Java, improving 3D simulation accuracy and supporting mission planning initiatives.",
-        "Automated HORUS AI georeferencing, integrating Permanently Shadowed Region (PSR) imagery into CMS, improving coordinate accuracy by 40% and crater clarity by 25%.",
-        "Presented CMS at NASA Better Together 2023, showcasing high-resolution lunar mapping, AI-enhanced imagery, and vector-based crater analysis, aiding mission planners and researchers."
+        "Implemented 10+ features in the Celestial Mapping System (CMS) using Java, enhancing 3D simulation accuracy and mission planning capabilities.",
+        "Integrated Permanently Shadowed Region (PSR) imagery into CMS, improving coordinate accuracy by 40% and crater clarity by 25%.",
+        "Presented CMS at NASA Better Together 2023, showcasing high-resolution lunar mapping, AI-enhanced imagery, and vector-based crater analysis."
       ]
     },
     {
